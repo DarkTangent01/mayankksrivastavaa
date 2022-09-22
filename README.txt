@@ -39,4 +39,3 @@ Upload the contents to your webserver.
 index.html must be in the main (root) folder of your webserver.
 Do not change the name of the template folders or files unless you know
 what you are doing and are changing the names in HTML files too.
-
